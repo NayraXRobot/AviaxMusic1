@@ -66,7 +66,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/NayraXRobot/aviaxmusic && cd aviaxMusic
+   git clone https://github.com/NayraXRobot/NAYRA-XD && cd NAYRA-XD
    ```
 6. **Install Requirements**
    ```bash
